@@ -44,7 +44,7 @@ Construir minha carreira na área de tecnologia, evoluindo através de **projeto
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/davi-trindade-b64a48378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
